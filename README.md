@@ -4,5 +4,5 @@
 insert this in your 'local.properties'
 ```groovy
 API_KEY=[YOUR_API_KEY]
-BASE_USER=https://newsapi.org/
+BASE_URL=https://newsapi.org/
 ```
